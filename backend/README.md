@@ -1,1 +1,1 @@
-# Multivendor Ecommerce System API - Udemy Course
+# Multivendor Ecommerce System API 
