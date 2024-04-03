@@ -19,7 +19,7 @@ Follow these steps to set up the project on your local machine:
 ### Steps:
 
 1. **Clone the Repository:**
-   git clone https://github.com/username/repository.git
+   git clone https://github.com/pareshkharche/advanced-ecommerce-system
 
 # 1.Set up Backend:
 
