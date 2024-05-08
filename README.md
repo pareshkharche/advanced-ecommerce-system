@@ -59,7 +59,7 @@ python manage.py runserver
 yarn dev
 
 # Accessing Django Admin:
-Once the server is running, access the Django admin section by navigating to http://localhost:8000/admin in your web browser.
+Once the server is running, access the Django admin section by navigating to http://localhost:8000/admin in your web browser
 
 # Notes:
 Make sure to replace username/repository with the actual GitHub repository URL.
