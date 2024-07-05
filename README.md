@@ -34,11 +34,17 @@ python manage.py createsuperuser
 
 # Open a new terminal
 cd frontend
+
 npm install --global yarn
+
 yarn create vite . --template react
+
 yarn
+
 yarn add axios dayjs jwt-decode js-cookie react-router-dom@6.10.0 zustand
+
 yarn add -D simple-zustand-devtools prettier
+
 yarn dev
 
 # 3.Setup Django Admin:
