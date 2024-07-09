@@ -1,19 +1,7 @@
 # Multi-vendor Ecommerce System
 This is a Multi-vendor Ecommerce System built using Django and ReactJS.
 
-# Screenshots
 
-![1](https://github.com/pareshkharche/advanced-ecommerce-system/assets/80632983/f1041328-7024-427d-a759-9f5107321531)
-![2](https://github.com/pareshkharche/advanced-ecommerce-system/assets/80632983/424ce065-5604-40ea-b160-e394be4171ca)
-![3](https://github.com/pareshkharche/advanced-ecommerce-system/assets/80632983/0b4f6cd8-9240-4c22-b287-65a4921f753c)
-![4](https://github.com/pareshkharche/advanced-ecommerce-system/assets/80632983/2f5e04e4-7942-4876-8237-2ad67adbfb87)
-![5](https://github.com/pareshkharche/advanced-ecommerce-system/assets/80632983/992c9954-9d05-43d5-b1d7-3f7e0f56b477)
-![6](https://github.com/pareshkharche/advanced-ecommerce-system/assets/80632983/7e59d06e-b42e-49e7-92fd-093330ea7f5c)
-![9](https://github.com/pareshkharche/advanced-ecommerce-system/assets/80632983/92d91ba1-f5ff-44c7-8ac7-333b696a557f)
-![10](https://github.com/pareshkharche/advanced-ecommerce-system/assets/80632983/2db0160d-917a-4298-b822-fac55064d0fa)
-![11](https://github.com/pareshkharche/advanced-ecommerce-system/assets/80632983/dee6aada-4bd4-4485-a514-3b5b53577545)
-![Screenshot (2410)](https://github.com/pareshkharche/advanced-ecommerce-system/assets/80632983/c950baf2-4aac-4c54-9bb8-049047b7e252)
-![Screenshot (2414)](https://github.com/pareshkharche/advanced-ecommerce-system/assets/80632983/d3332f49-2c6f-4dcc-a1d7-3d6fa7b6f790)
 
 This is a Multi-vendor Ecommerce System built using Django and ReactJS.
 
