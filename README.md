@@ -1,8 +1,7 @@
 # Multi-vendor Ecommerce System
 This is a Multi-vendor Ecommerce System built using Django and ReactJS.
 
-Demo:
-https://github.com/pareshkharche/advanced-ecommerce-system/assets/80632983/f60ccdf4-e3df-4f79-a57d-29ac22961c03
+# Screenshots
 
 This is a Multi-vendor Ecommerce System built using Django and ReactJS.
 
