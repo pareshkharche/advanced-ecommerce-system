@@ -5,7 +5,7 @@ This is a Multi-vendor Ecommerce System built using Django and ReactJS.
 
 ![1](https://github.com/pareshkharche/advanced-ecommerce-system/assets/80632983/f1041328-7024-427d-a759-9f5107321531)
 ![2](https://github.com/pareshkharche/advanced-ecommerce-system/assets/80632983/424ce065-5604-40ea-b160-e394be4171ca)
-![3](https://github.com/pareshkharche/advanced-ecommerce-system/assets/80632983/a99f45ce-c638-41e1-acd1-75d8a74edfd5)
+![3](https://github.com/pareshkharche/advanced-ecommerce-system/assets/80632983/0b4f6cd8-9240-4c22-b287-65a4921f753c)
 ![4](https://github.com/pareshkharche/advanced-ecommerce-system/assets/80632983/2f5e04e4-7942-4876-8237-2ad67adbfb87)
 ![5](https://github.com/pareshkharche/advanced-ecommerce-system/assets/80632983/992c9954-9d05-43d5-b1d7-3f7e0f56b477)
 ![6](https://github.com/pareshkharche/advanced-ecommerce-system/assets/80632983/7e59d06e-b42e-49e7-92fd-093330ea7f5c)
